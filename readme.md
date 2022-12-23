@@ -1,5 +1,16 @@
 # Flipper
 
+## Start
+
+Auf dem Smartphone die flipper APP installiert und ein Firmwareupdate gestartet.
+qFlipper auf dem Windowsrechnwer installiert.
+
+### Getestete APPs
+
+USB
+
+NFC
+
 ## Links
 
 - <https://flipperzero.one/>
