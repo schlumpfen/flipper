@@ -2,8 +2,9 @@
 
 ## Start
 
-Auf dem Smartphone die flipper APP installiert und ein Firmwareupdate gestartet.
-qFlipper auf dem Windowsrechnwer installiert.
+Auf dem Smartphone die [Flipper Mobile App](https://apps.apple.com/us/app/flipper-mobile-app/id1534655259) installiert und ein Firmwareupdate gestartet.
+
+[qFlipper](https://docs.flipperzero.one/qflipper) auf dem Windowsrechnwer installiert.
 
 ### Getestete APPs
 
