@@ -8,7 +8,9 @@ Auf dem Smartphone die [Flipper Mobile App](https://apps.apple.com/us/app/flippe
 
 ### Getestete APPs
 
-USB
+#### Bad USB
+
+Neue Textdatei erstellt und getestet
 
 NFC
 
