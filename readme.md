@@ -16,6 +16,10 @@ Neue Textdatei erstellt und getestet
 
 Kopierkarte der Schule eingelesen und gespeichert.
 
+#### Infrarot
+
+Mit der Universalfernbedienung für Fernseher unseren Fernseher unseren Fernseher fernbedient. Es wäre spannend mal zuschauen wie die Beamer in der Schule reagieren.
+
 ## Links
 
 - <https://flipperzero.one/>

@@ -1,0 +1,27 @@
+REM This is BadUSB demo script for windows
+
+REM Open windows notepad
+DELAY 1000
+GUI r
+DELAY 500
+STRING notepad
+DELAY 500
+ENTER
+DELAY 750
+
+STRING ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ENTER
+STRING abcdefghijklmnopqrstuvwxyz
+ENTER
+STRING Shift Zahlen: !"§$%&/()=?`
+REM Ausgabe:         !Ä$%/-)=´_
+ENTER
+STRING Sonderzeichen: ,.-;:_#'+*^°~@€{[]}²³
+REM Ausgabe:          ,.ßöÖ?§ä`(XXXXXXXXXXX
+ENTER
+STRING Deutsche Umlaute: öäüÖÄÜß
+REM Nix! nur ^
+ENTER
+ENTER
+ENTER
+STRING RoS 20221223
