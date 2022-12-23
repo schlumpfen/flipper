@@ -12,7 +12,9 @@ Auf dem Smartphone die [Flipper Mobile App](https://apps.apple.com/us/app/flippe
 
 Neue Textdatei erstellt und getestet
 
-NFC
+#### NFC
+
+Kopierkarte der Schule eingelesen und gespeichert.
 
 ## Links
 
